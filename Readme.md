@@ -16,6 +16,277 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>23.12.2025: added support for <b>10.0.26100.7523</b></p>
+<p>15.12.2025: added support for <b>10.0.26100.7344</b></p>
+<p>03.12.2025: added support for <b>10.0.26100.7309</b></p>
+<p>17.11.2025: added support for <b>10.0.26100.3613</b></p>
+<p>08.11.2025: added support for <b>10.0.26100.6982, 10.0.26100.7070 and 10.0.28000.1</b></p>
+<p>07.11.2025: added support for <b>10.0.27982.1 and 10.0.26100.7051</b></p>
+<p>01.11.2025: added support for <b>10.0.14393.8519 x64</b></p>
+<p>29.10.2025: added support for <b>10.0.14393.8519 x86 and 10.0.26100.7019</b></p>
+<p>22.10.2025: added support for <b>10.0.22621.6060 and 10.0.26100.6972</b></p>
+<p>20.10.2025: added support for <b>10.0.20348.4294</b></p>
+<p>17.10.2025: added support for <b>10.0.22621.6054, 10.0.19041.6456 x86, 10.0.17763.7919, 10.0.27971.1 and 10.0.19041.6456 x64</b></p>
+<p>16.10.2025: added support for <b>10.0.26100.6899</b></p>
+<p>07.10.2025: added support for <b>10.0.27959.1</b></p>
+<p>30.09.2025: added support for <b>10.0.26100.6725</b></p>
+<p>27.09.2025: added support for <b>10.0.27954.1</b></p>
+<p>26.09.2025: added support for <b>10.0.26100.5751</b></p>
+<p>24.09.2025: added support for <b>10.0.26100.5733, 10.0.26100.5067 and 10.0.26100.5790</b></p>
+<p>21.09.2025: added support for <b>10.0.27943.1 and 10.0.27950.1</b></p>
+<p>11.09.2025: added support for <b>10.0.27938.1</b></p>
+<p>09.09.2025: added support for <b>10.0.27902.1000, 10.0.27909.1000, 10.0.27913.1000, 10.0.27919.1000, 10.0.27928.1 and 10.0.27934.1</b></p>
+<p>04.09.2025: added support for <b>10.0.22621.5840</b></p>
+<p>01.09.2025: added support for <b>10.0.26100.5770</b></p>
+<p>31.08.2025: added support for <b>10.0.26100.5074</b></p>
+<p>14.08.2025: added support for <b>10.0.22621.5697</b></p>
+<p>02.08.2025: added support for <b>10.0.26100.4768</b></p>
+<p>18.07.2025: added support for <b>10.0.27898.1000</b></p>
+<p>16.07.2025: added support for <b>10.0.27891.1000</b></p>
+<p>09.07.2025: added support for <b>10.0.26100.4484</b>
+<p>08.07.2025: added support for <b>10.0.22621.5235</b>
+<p>07.07.2025: added support for <b>10.0.22621.5547</b>
+<p>21.06.2025: added support for <b>10.0.27881.1000</b>
+<p>19.06.2025: added support for <b>10.0.22621.5415</b>
+<p>08.06.2025: added support for <b>10.0.26100.4202</b>
+<p>07.06.2025: added support for <b>10.0.26100.5603</b>
+<p>05.06.2025: added support for <b>10.0.26100.5600</b>
+<p>02.06.2025: added support for <b>10.0.27868.1000</b>
+<p>30.05.2025: added support for <b>10.0.22621.5413</b></p>
+<p>08.05.2025: added support for <b>10.0.26100.5581</b>
+<p>04.05.2025: added support for <b>10.0.26100.5551</b>
+<p>01.05.2025: added support for <b>10.0.19041.5678 x86 and 10.0.20348.3451</b>
+<p>30.04.2025: added support for <b>10.0.22621.5262 , 10.0.22621.5260 and 10.0.26100.3909</b>
+<p>28.04.2025: added support for <b>10.0.26100.3902 and 10.0.26100.3912</b>
+<p>27.04.2025: added support for <b>10.0.26100.3863</b>
+<p>12.04.2025: added support for <b>10.0.19041.5678 and 10.0.22621.5124</b>
+<p>04.04.2025: added support for <b>10.0.27818.1000 and 10.0.19041.5674</b>
+<p>02.04.2025: added support for <b>10.0.26100.3624 and 10.0.26100.3575</b>
+<p>31.03.2025: added support for <b>10.0.27823.1000</b>
+<p>14.03.2025: added support for <b>10.0.27813.1000</b>
+<p>13.03.2025: added support for <b>10.0.26100.3380</b>
+<p>02.03.2025: added support for <b>10.0.22621.4974</b>
+<p>01.03.2025: added support for <b>10.0.27802.1000 and 10.0.22621.5015</b>
+<p>28.02.2025: added support for <b>10.0.26100.3321</b>
+<p>27.02.2025: added support for <b>10.0.26100.3323</b>
+<p>16.02.2025: added support for <b>10.0.26330.5000 and 10.0.26100.3281</b>
+<p>15.02.2025: added support for <b>10.0.27783.1000 and 10.0.27788.1000</b>
+<p>08.02.2025: added support for <b>10.0.26100.2992</b>
+<p>31.01.2025: added support for <b>10.0.22621.4830 and 10.0.26100.3025</b>
+<p>30.01.2025: added support for <b>10.0.26100.3000</b>
+<p>29.01.2025: added support for <b>10.0.22621.4805 and 10.0.26100.3037</b>
+<p>25.01.2025: added support for <b>10.0.27774.1000</b>
+<p>17.01.2025: added support for <b>10.0.20348.3089</b>
+<p>05.01.2025: added support for <b>10.0.27774.1000</b>
+<p>29.11.2024: added support for <b>10.0.22621.4655</b>
+<p>14.12.2024: added support for <b>10.0.27764.1000</b>
+<p>24.11.2024: added support for <b>10.0.26100.2454 and 10.0.22621.4541</b>
+<p>23.11.2024: added support for <b>10.0.26100.2222</b>
+<p>17.11.2024: added support for <b>10.0.26100.2448</b>
+<p>16.11.2024: added support for <b>10.0.20348.2849 and 10.0.27749.1000</b>
+<p>13.11.2024: added support for <b>10.0.25398.1251</b>
+<p>09.11.2024: added support for <b>10.0.27744.1000</b>
+<p>02.11.2024: added support for <b>10.0.22621.4435</b>
+<p>01.11.2024: added support for <b>10.0.22000.3260</b>
+<p>27.10.2024: added support for <b>10.0.26100.2130</b>
+<p>24.10.2024: added support for <b>10.0.22621.4391 and 10.0.27729.1000</b>
+<p>12.10.2024: added support for <b>10.0.20348.2760 and 10.0.22621.4291</b>
+<p>02.10.2024: added support for <b>10.0.26100.1882</b>
+<p>30.09.2024: added support for <b>10.0.26296.5001</b>
+<p>27.09.2024: added support for <b>10.0.22621.4249</b>
+<p>26.09.2024: added support for <b>10.0.26100.1876</b>
+<p>07.09.2024: added support for <b>10.0.26280.5000</b>
+<p>01.09.2024: added support for <b>10.0.27695.1000</b>
+<p>21.08.2024: added support for <b>10.0.22000.3147</b>
+<p>17.08.2024: added support for <b>10.0.27686.1000</b>
+<p>15.08.2024: added support for <b>10.0.20348.2652</b>
+<p>02.08.2024: added support for <b>10.0.22621.4000</b>
+<p>27.07.2024: added support for <b>10.0.22621.3958</b>
+<p>25.07.2024: added support for <b>10.0.26257.5000</b>
+<p>17.07.2024: added support for <b>26100.973</b>
+<p>13.07.2024: added support for <b>26252.5000 , 22621.3951 and 10240.20708</b>
+<p>01.07.2024: added support for <b>26244.5000</b>
+<p>27.06.2024: added support for <b>10.0.25982.1000</b>
+<p>21.06.2024: added support for <b>10.0.26241.5000</b>
+<p>20.06.2024: added support for <b>10.0.22000.3019</b>
+<p>14.06.2024: added support for <b>10.0.26236.5000</b>
+<p>13.06.2024: added support for <b>25398.950 and 20348.2400</b>
+<p>08.06.2024: added support for <b>10.0.22621.3760</b>
+<p>07.06.2024: added support for <b>10.0.26227.5000 and 10.0.26231.5000</b>
+<p>30.05.2024: added support for <b>10.0.19041.4474 x86 & x64</b>
+<p>26.05.2024: added support for <b>10.0.22621.3646 and 10.0.17763.5830 x86</b>
+<p>24.05.2024: added support for <b>10.0.19041.4472 x86 & x64 and 10.0.17763.5830</b>
+<p>23.05.2024: added support for <b>10.0.22621.3640</b>
+<p>18.05.2024: added support for <b>10.0.26217.5000</b>
+<p>17.05.2024: added support for <b>10.0.22621.3668</b>
+<p>15.05.2024: added support for <b>10.0.17763.5820 x64 & x86, 10.0.20348.2461, 10.0.22000.2960 and 10.0.22621.3593</b>
+<p>10.05.2024: added support for <b>10.0.26212.5000</b>
+<p>01.05.2024: added support for <b>10.0.26100.1 and 10.0.20348.2400</b>
+<p>26.04.2024: added support for <b>26200.5001</b>
+<p>25.04.2024: added support for <b>22621.3527 , 10.0.19041.4355 x86 & x64 </b>
+<p>23.04.2024: added support for <b>19041.4233 ,19041.4239 , 22000.2899 , 22621.3358 , 22621.3371 , 26002.1000 , 26020.1000, 22621.3430 , 22621.4235 </b>
+<p>08.03.2024: added support for <b>26063.1</b>
+<p>01.03.2024: added support for <b>22621.3235</b>
+<p>23.02.2024: EDITED wrong offsets for <b>19041.3636_x86</b> #Thanks to @loyejaotdiqr47123 for this!
+<p>21.02.2024: added support for <b>17763.10021_x64</b>
+<p>19.02.2024: added support for <b>22621.3227</b> and <b>.23620.1000</b>
+<p>16.02.2024: added support for <b>26058.1000</b> thanks to @udygct
+<p>14.02.2024: added support for <b>22000.2777</b> and <b>20348.2322_x64</b>
+<p>12.02.2024: added support for <b>26052.1000</b>
+<p>05.02.2024: added support for <b>22621.3139</b>
+<p>28.01.2024: added support for <b>22621.3130</b>
+<p>24.01.2024: added support for <b>22621.3085</b>
+<p>23.01.2024: added support for <b>23619.1000</b>
+<p>17.01.2024: added support for <b>22621.3078</b>
+<p>15.01.2024: added support for <b>23612.1000</b> and <b>23615.1000</b>
+<p>13.01.2024: added support for <b>26010.1000</b>
+<p>10.01.2024: added support for <b>17763.5328_x64</b>
+<p>30.12.2023: added support for <b>26016.1000</b> HAPPY NEW YEAR ! ! !
+<p>20.12.2023: added support for <b>23606.1000</b>
+<p>15.12.2023: added support for <b>22621.2915</b>
+<p>13.12.2023: added support for <b>22621.2861</b>
+<p>11.12.2023: added support for <b>23595.1001</b>
+<p>28.11.2023: added support for <b>23590.1000</b>
+<p>23.11.2023: added support for <b>25997.1000</b>
+<p>18.11.2023: added support for <b>22621.2706</b>
+<p>15.11.2023: added support for <b>17763.5122_x64</b>, <b>20348.2110_x64</b> and <b>22000.2600</b>
+<p>09.11.2023: added support for <b>23580.1000</b>, <b>23585.1001</b> and <b>25992.1000</b>
+<p>03.11.2023: added support for <b>23575.1001</b>
+<p>02.11.2023: added support for <b>25977.1000</b>
+<p>27.10.2023: added support for <b>22621.2506</b> and <b>19041.3636</b>
+<p>22.10.2023: added support for <b>23570.1000</b>
+<p>16.10.2023: added support for <b>22621.2483</b>, <b>23565.1000</b> and <b>25967.1000</b>
+<p>13.10.2023: added support for <b>22621.2419</b> and <b>22621.2500</b>
+<p>11.10.2023: added support for <b>19041.3570</b>, <b>20348.2031_x64</b> and <b>23560.1000</b>
+<p>02.10.2023: added support for <b>23555.1000</b>
+<p>30.09.2023: added support for <b>19041.3516_x86</b>
+<p>27.09.2023: added support for <b>19041.3516_x64</b>
+<p>26.09.2023: added support for <b>19041.3513_x64</b>
+<p>25.09.2023: added support for <b>23550.1000</b>
+<p>23.09.2023: added support for <b>22621.2361</b>
+<p>21.09.2023: added support for <b>23545.1000</b>
+<p>15.09.2023: added support for <b>22621.2359</b> and <b>25951.1000</b>
+<p>09.09.2023: added support for <b>25947.1000</b> and <b>23541.1000</b>
+<p>02.09.2023: added support for <b>25941.1000</b>
+<p>01.09.2023: added support for <b>23536.1000</b>
+<p>27.08.2023: added support for <b>23531.1001</b> and <b>25936.1000</b>
+<p>22.08.2023: added support for <b>23526.1000</b>
+<p>20.08.2023: added support for <b>25931.1000</b>
+<p>13.08.2023: added support for <b>23521.1000</b>
+<p>11.08.2023: added support for <b>25926.1000</b>
+<p>09.08.2023: added support for <b>17763.4720_x64</b> and <b>20348.1906_x64</b>
+<p>05.08.2023: added support for <b>25921.1000</b>
+<p>04.08.2023: added support for <b>23516.1000</b>
+<p>03.08.2023: added support for <b>22621.2129</b>
+<p>31.07.2023: added support for <b>23511.1000</b>
+<p>29.07.2023: added support for <b>25915.1000</b>
+<p>27.07.2023: added support for <b>22621.2070</b> and <b>19041.3271_x86</b>
+<p>26.07.2023: added support for <b>19041.3271_x64</b>
+<p>21.07.2023: added support for <b>23506.1000</b>
+<p>19.07.2023: added support for <b>19041.3269_x86</b>
+<p>17.07.2023: added support for <b>22621.2066</b> and <b>19041.3269_x64</b>
+<p>13.07.2023: added support for <b>20348.1850_x64</b> and <b>25905.1000</b>
+<p>12.07.2023: added support for <b>17763.4644_x64</b>
+<p>04.07.2023: added support for <b>19041.3155_x86</b>
+<p>03.07.2023: added support for <b>23493.1000</b>
+<p>02.07.2023: added support for <b>22621.1972</b>
+<p>29.06.2023: added support for <b>22000.2124</b>
+<p>28.06.2023: added support for <b>19041.3155_x64</b> and <b>22621.1928</b>
+<p>26.06.2023: added support for <b>23486.1000</b>
+<p>23.06.2023: added support for <b>22621.1906</b>
+<p>21.06.2023: added support for <b>22621.1926</b>
+<p>16.06.2023: added support for <b>23481.1000</b> and <b>25393.1</b>
+<p>09.06.2023: added support for <b>23475.1000</b> and <b>25387.1</b>
+<p>05.06.2023: added support for <b>25381.1</b>
+<p>02.06.2023: added support for <b>22621.1830</b>, <b>23466.1001</b> and <b>23471.1000</b>
+<p>29.05.2023: added support for <b>22621.1825</b>
+<p>26.05.2023: added support for <b>25375.1</b>
+<p>25.05.2023: added support for <b>22621.1778</b>
+<p>23.05.2023: added support for <b>25370.1</b>
+<p>15.05.2023: added support for <b>25451.1000</b> and <b>22621.1776</b>
+<p>12.05.2023: added support for <b>20344.1_x64</b>
+<p>05.05.2023: added support for <b>25357.1</b>
+<p>02.05.2023: added support for <b>19041.2913_x86</b>
+<p>01.05.2023: added support for <b>25352.1</b>
+<p>26.04.2023: added support for <b>19041.2913_x64</b>
+<p>23.04.2023: added support for <b>23430.1000</b>
+<p>20.04.2023: added support for <b>25346.1001</b>
+<p>18.04.2023: added support for <b>17763.4252_x86</b> and <b>19041.1021</b>
+<p>14.04.2023: added support for <b>19041.2908</b>
+<p>13.04.2023: added support for <b>20348.1668_x64</b>
+<p>12.04.2023: added support for <b>17763.4252_x64</b>
+<p>08.04.2023: added support for <b>25336.1000</b>
+<p>01.04.2023: added support for <b>23424.1000</b>
+<p>31.03.2023: added support for <b>25330.1000</b>
+<p>30.03.2023: added support for <b>23419.1000</b>
+<p>24.03.2023: added support for <b>25324.1000</b>
+<p>13.03.2023: added support for <b>23403.1001</b>
+<p>10.03.2023: added support for <b>25314.1000</b>
+<p>04.03.2023: added support for <b>18252.1000_x86</b>
+<p>03.03.2023: added support for <b>19041.2673_x86</b> and <b>25309.1000</b>
+<p>28.02.2023: added support for <b>19041.1_x86</b>
+<p>23.02.2023: added support for <b>22000.1641</b>. С днём защитников отечества!
+<p>22.02.2023: added support for <b>19041.2673_x64</b>
+<p>19.02.2023: added support for <b>19041.2670_x64</b>
+<p>16.02.2023: added support for <b>20348.1547_x64</b> and <b>25300.1000</b>
+<p>10.02.2023: added support for <b>25295.1000</b>
+<p>06.02.2023: added support for <b>25290.1000</b>
+<p>27.01.2023: added support for <b>25284.1000</b> and <b>20348.1</b>
+<p>24.01.2023: added support for <b>25281.1000</b>
+<p>19.01.2023: added support for <b>19041.1947_x64</b>
+<p>16.01.2023: added support for <b>25276.1000</b> and <b>6.1.7601.25757_x86</b>
+<p>11.01.2023: added support for <b>14393.5582_x86</b>
+<p>06.01.2023: added support for <b>17763.3650_x86</b> and <b>25272.1000</b>
+<p>15.12.2022: added support for <b>25267.1000</b>
+<p>14.12.2022: added support for <b>14393.5582_x64</b> and <b>25262.1000</b>
+<p>02.12.2022: added support for <b>19101.1120_x64</b>
+<p>29.11.2022: added support for <b>25252.1000</b>
+<p>24.11.2022: added support for <b>20348.1311_x64</b>
+<p>19.11.2022: added support for <b>25246.1001</b> and <b>25247.1000</b>
+<p>14.11.2022: added support for <b>14393.5127_x86</b>
+<p>09.11.2022: added support for <b>17763.3650_x64</b>
+<p>02.11.2022: added support for <b>25236.1000</b>
+<p>28.10.2022: added support for <b>25231.1000</b>
+<p>20.10.2022: added support for <b>25227.1000</b>
+<p>07.10.2022: added support for <b>25217.1000</b> and <b>1000 stars!</b>
+<p>02.10.2022: added support for <b>22621.608</b>
+<p>30.09.2022: added support for <b>25211.1001</b>
+<p>29.09.2022: added support for <b>19101.1112_x64</b>
+<p>26.09.2022: added support for <b>20348.1070</b> and <b>19041.2075_x86</b>
+<p>23.09.2022: added support for <b>17763.3469_x64</b>, <b>25110.1000</b> and <b>25206.1000</b>
+<p>21.09.2022: added support for <b>19041.2075_x64</b> and <b>22000.1042</b>
+<p>15.09.2022: added support for <b>25201.1000</b>
+<p>10.09.2022: added support for <b>25197.1000</b>
+<p>02.09.2022: added support for <b>25193.1000</b>
+<p>30.08.2022: added support for <b>19041.1949_x86</b>
+<p>27.08.2022: added support for <b>19041.1949_x64</b>
+<p>25.08.2022: added support for <b>25188.1000</b>
+<p>18.08.2022: added support for <b>25182.1000</b> and <b>20348.946 (Server 2022)</b>
+<p>12.08.2022: added support for <b>25179.1000</b>
+<p>04.08.2022: added support for <b>25174.1000</b>
+<p>01.08.2022: added support for <b>22621.317</b>
+<p>29.07.2022: added support for <b>25169.1000</b>
+<p>25.07.2022: added support for <b>17763.3232_x64</b>
+<p>23.07.2022: added support for <b>22621.436</b>
+<p>21.07.2022: added support for <b>20348.859</b> and <b>25163.1000</b>
+<p>15.07.2022: added support for <b>25158.1000</b>
+<p>02.07.2022: added support for <b>25151.1000</b>
+<p>25.06.2022: added support for <b>17763.3113</b>
+<p>23.06.2022: added support for <b>25145.1000</b>
+<p>16.06.2022: added support for <b>25140.1000</b>
+<p>15.06.2022: added support for <b>25136.1000</b> and <b>14393.5127_x64</b>
+<p>04.06.2022: added support for <b>25131.1000</b>
+<p>03.06.2022: added support for <b>19041.1741</b>
+<p>31.05.2022: added support for <b>19041.1737_x64</b>
+<p>30.05.2022: added support for <b>19041.1739_x64</b>
+<p>27.05.2022: added support for <b>17763.2989_x64</b>, <b>20348.740</b> and <b>25126.1000</b>
+<p>25.05.2022: added support for <b>22000.708</b>
+<p>23.05.2022: added support for <b>17763.2931</b>
+<p>20.05.2022: added support for <b>25120.1000</b>
+<p>13.05.2022: added support for <b>25115.1000</b> and <b>22621.1</b>
+<p>11.05.2022: added support for <b>22000.653</b>
+<p>09.05.2022: added support for <b>19041.1202_x86</b>
+<p>08.05.2022: added support for <b>22616.1</b>
 <p>02.05.2022: added support for <b>22610.1</b>
 <p>29.04.2022: added support for <b>20348.681</b> and <b>19041.1682_x86</b>
 <p>26.04.2022: added support for <b>19041.1682_x64</b> and <b>22000.652</b>
@@ -144,10 +415,5 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 <p>16.05.2020: added support for <b>19041.84</b>
 </details>
 
-## Donate?
-### Yes, you can buy me a beer or a coffe at 
-[THIS LINK](https://donate.stream/en/sebaxakerhtc) OR
-
-BURST/Signa: BURST-GEL8-6CRU-CNNC-B4RLL
-
-Bitcoin: bc1q4yndy5fnzpq4n6rjdgs5km5udw6654h8s4a0kjv2ypaa2n5k47hs2z9lpd
+# Donate?
+[![For EU and Other](https://github.com/sebaxakerhtc/sebaxakerhtc.github.io/raw/master/images/paypal.png)](https://paypal.me/sebaxakerhtc) &nbsp; [![Для дарений из России](https://github.com/sebaxakerhtc/sebaxakerhtc.github.io/raw/master/images/yoomoney.png)](https://donate.stream/sebaxakerhtc)
